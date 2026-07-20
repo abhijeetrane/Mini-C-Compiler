@@ -1,0 +1,4 @@
+mini-c-compiler
+*.o
+*.s
+*.exe
